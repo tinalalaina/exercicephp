@@ -1,0 +1,21 @@
+.fa-folder-plus{
+    font-size: 150px;
+}
+.fa-user-plus{
+    font-size: 150px;
+}
+.fa-search{
+    font-size: 150px;
+}
+.fa-list-alt{
+    font-size: 150px;
+}
+.fa-id-card-alt{
+    font-size: 150px;
+}
+.fa-search-plus{
+    font-size: 150px;
+}
+.card:hover{
+background-color:greenyellow;    
+}
